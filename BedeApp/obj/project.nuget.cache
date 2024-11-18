@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "27yMGUDgxdGJ1tDoR5WTA6qLg2RELNOlVGzG+vhM1SrbrJDHU72IcrgE5c6fIiJv8o0Z0ASgxe61VEf+D0H5Og==",
+  "success": true,
+  "projectFilePath": "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj",
+  "expectedPackageFiles": [
+    "/home/deck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/deck/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/deck/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/home/deck/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
