@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BedeAppUnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2728985f47c61815062c127e714d9915048d3de4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BedeAppUnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BedeAppUnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
