@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedeApp", "BedeApp\BedeApp.csproj", "{27F752F0-E460-47E1-9350-7244DED5F856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedeAppUnitTest", "BedeAppUnitTest\BedeAppUnitTest.csproj", "{E7247CEB-962F-49D7-8070-7E989F96AE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F752F0-E460-47E1-9350-7244DED5F856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F752F0-E460-47E1-9350-7244DED5F856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F752F0-E460-47E1-9350-7244DED5F856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F752F0-E460-47E1-9350-7244DED5F856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7247CEB-962F-49D7-8070-7E989F96AE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7247CEB-962F-49D7-8070-7E989F96AE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7247CEB-962F-49D7-8070-7E989F96AE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7247CEB-962F-49D7-8070-7E989F96AE06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

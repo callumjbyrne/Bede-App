@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/run/media/deck/GF8S5/Development/Bede App/BedeAppUnitTest/BedeAppUnitTest.csproj": {}
+  },
+  "projects": {
+    "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj",
+        "projectName": "BedeApp",
+        "projectPath": "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj",
+        "packagesPath": "/home/deck/.nuget/packages/",
+        "outputPath": "/run/media/deck/GF8S5/Development/Bede App/BedeApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deck/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/run/media/deck/GF8S5/Development/Bede App/BedeAppUnitTest/BedeAppUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/deck/GF8S5/Development/Bede App/BedeAppUnitTest/BedeAppUnitTest.csproj",
+        "projectName": "BedeAppUnitTest",
+        "projectPath": "/run/media/deck/GF8S5/Development/Bede App/BedeAppUnitTest/BedeAppUnitTest.csproj",
+        "packagesPath": "/home/deck/.nuget/packages/",
+        "outputPath": "/run/media/deck/GF8S5/Development/Bede App/BedeAppUnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deck/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj": {
+                "projectPath": "/run/media/deck/GF8S5/Development/Bede App/BedeApp/BedeApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
